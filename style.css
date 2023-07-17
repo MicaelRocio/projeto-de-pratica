@@ -12,12 +12,6 @@ body {
     text-align: center;
 
 }
-@font-face {
-    font-family: 'viking2';
-    src: url(fonts/viking2.ttf) format(truetype);
-    font-weight: lighter;
-    font-style: normal;
-    }
 
 @font-face {
     font-family: 'viking';
